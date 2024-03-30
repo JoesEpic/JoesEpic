@@ -9,5 +9,5 @@
 # About me
 
 - 👀 I’m interested in travling, avation and did I mention travling?
-- 🌱 I’m currently learning JavaScript
+- 🌱 Some of my favorite places I've been: Bahamas, San Diego and Vermont  
 - ⚡ Fun fact: I'm a swimmer 🤘🏊
